@@ -87,8 +87,6 @@ The solution was tested on:
 - Windows 11 with Docker Desktop (Linux containers / WSL 2 backend)
 - Linux with Docker Engine
 
-It should also be reproducible on macOS with Docker Desktop, but it was not tested there.
-
 ---
 
 ## Build instructions
